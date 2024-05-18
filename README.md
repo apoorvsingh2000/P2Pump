@@ -65,9 +65,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contributors
 
-Apoorv Singh
-Raghav Mantri
-Divyanshu Sharma
+- Apoorv Singh
+- Raghav Mantri
+- Divyanshu Sharma
 
 Project Link: https://github.com/apoorvsingh2000/P2Pump
 
