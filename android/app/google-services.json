@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875497900076",
+    "project_id": "locl-c653b",
+    "storage_bucket": "locl-c653b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875497900076:android:e81f71725a1fc5de8c2989",
+        "android_client_info": {
+          "package_name": "com.example.locl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSHnKKzT-YCORvs6bY-nYywh0jHinPVIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
