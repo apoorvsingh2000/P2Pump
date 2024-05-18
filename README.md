@@ -26,7 +26,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/<YOUR USERNAME>/PP_Fitness.git
+   git clone https://github.com/apoorvsingh2000/PP_Fitness.git
    ```
 2. Navigate to the project directory:
    ```sh
