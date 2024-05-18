@@ -26,11 +26,11 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/apoorvsingh2000/PP_Fitness.git
+   git clone https://github.com/apoorvsingh2000/P2Pump.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd PP_Fitness
+   cd P2Pump
    ```
 3. Install the dependencies:
    ```sh
@@ -63,11 +63,13 @@ flutter test
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
+## Contributors
 
-Your Name - <YOUR EMAIL>
+Apoorv Singh
+Raghav Mantri
+Divyanshu Sharma
 
-Project Link: [https://github.com/<YOUR USERNAME>/PP_Fitness](https://github.com/<YOUR USERNAME>/PP_Fitness)
+Project Link: https://github.com/apoorvsingh2000/P2Pump
 
 ## Acknowledgements
 
